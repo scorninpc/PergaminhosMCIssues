@@ -1,41 +1,41 @@
 # 🌟 PergaminhosMC
 
-Crie pergaminhos mágicos e personalize seus itens com lores, encantamentos e recursos únicos para a sua aventura no Minecraft.
+Create magical scrolls and customize your items with lores, enchantments, and unique features for your Minecraft adventure.
 
-## ✨ Transforme sua jogabilidade com itens únicos e personalizados!
+## ✨ Transform your gameplay with unique and personalized items!
 
-**PergaminhosMC** é o plugin definitivo para Minecraft que permite criar pergaminhos mágicos para modificar os itens do seu servidor de forma inovadora! Desafie seus jogadores, torne seu mundo mais vibrante e crie equipamentos como nunca antes!
+**PergaminhosMC** is the ultimate Minecraft plugin that allows you to create magical scrolls to modify your server's items in innovative ways! Challenge your players, make your world more vibrant, and create equipment like never before!
 
-## 🚀 Recursos incríveis
+## 🚀 Amazing features
 
-- 📝 Crie pergaminhos únicos para encantamentos, nomes e lores!
-- 🎨 Personalize seus itens com facilidade e criatividade.
-- 🌍 Torne seu servidor mais divertido e envolvente.
-- 🔥 Descubra e colete pergaminhos raros e poderosos!
+- 📝 Create unique scrolls for enchantments, names, and lores!
+- 🎨 Easily and creatively personalize your items.
+- 🌍 Make your server more fun and engaging.
+- 🔥 Discover and collect rare and powerful scrolls!
 
-## 🌟 Por que escolher PergaminhosMC?
+## 🌟 Why choose PergaminhosMC?
 
-Faça seus jogadores se envolverem para criar itens unicos e se destacar no mundo de Minecraft! Com PergaminhosMC, você tem total controle para criar experiências personalizadas e surpreendentes para seus jogadores. Torne sua jogabilidade mais emocionante e cheia de aventura!
+Get your players involved to create unique items and stand out in the Minecraft world! With PergaminhosMC, you have full control to craft personalized and surprising experiences for your players. Make your gameplay more exciting and adventure-filled!
 
-## 📚 Exemplos de Uso
+## 📚 Examples of Use
 
-Aqui estão algumas ideias de como você pode usar o PergaminhosMC:
+Here are some ideas on how you can use PergaminhosMC:
 
-- 💰 Venda pergaminhos em NPCs, criando uma economia personalizada.
-- 🐉 Drope pergaminhos de mobs e chefes, tornando as batalhas mais recompensadoras.
-- 🎯 Crie recompensas de missões (quests) para incentivar a exploração e o progresso.
-- ⚙️ Desenvolva pergaminhos incrementais que permitem aos jogadores melhorar seus encantamentos ao longo do tempo.
+- 💰 Sell scrolls to NPCs, creating a custom economy.
+- 🐉 Drop scrolls from mobs and bosses, making battles more rewarding.
+- 🎯 Create quest rewards to encourage exploration and progress.
+- ⚙️ Develop incremental scrolls that allow players to improve their enchantments over time.
 
-## 🤝 Junte-se à Nossa Comunidade
+## 🤝 Join Our Community
 
-- Reporte problemas e envie sugestões de melhorias usando a aba de **Issues** no GitHub.
-- Para suporte mais rápido, participe do nosso **[Discord](https://discord.gg/hfg4ustB3J)**.
+- Report issues and suggest improvements using the **Issues** tab on GitHub.
+- For faster support, join our **[Discord](https://discord.gg/hfg4ustB3J)**.
 
-## 💰 Como obter
-*Distribuído exclusivamente mediante doação única no GitHub de qualquer valor.* Nos Apoie com qualquer valor para obter acesso ao plugin. Sua doação ajuda a manter e expandir o projeto!
+## 💰 How to get
+*Distributed exclusively through a one-time donation on GitHub of any value.* Support us with any amount to gain access to the plugin. Your donation helps us maintain and expand the project!
 
-## ⚙️ Como começar
-1. 💳 Faça uma doação no GitHub.
-2. 📩 Após a doação, nos envie seu usuário Github em nosso [Discord](https://discord.gg/hfg4ustB3J), e receba o JAR.
-3. 🛠️ Basta baixar o JAR na pasta plugins do seu Minecraft e iniciar o servidor.
-4. 🎉 Agora divirta-se personalizando e evoluindo seus itens!
+## ⚙️ How to start
+1. 💳 Make a donation on GitHub.
+2. 📩 After donating, send us your GitHub username in our [Discord](https://discord.gg/hfg4ustB3J), and receive the JAR.
+3. 🛠️ Simply download the JAR into your Minecraft plugins folder and start the server.
+4. 🎉 Now enjoy customizing and leveling up your items!
